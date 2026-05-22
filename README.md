@@ -43,6 +43,6 @@
 *   **AI 模型**：
     *   本地：IS-Net (via Transformers.js)
     *   云端：gemini-3-pro-image-preview 🍌
-*   **部署**：GitHub Pages (自动化构建)
+*   **部署**：Cloudflare Pages (自动化构建)
 
 
